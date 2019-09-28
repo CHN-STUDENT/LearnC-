@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1528711160 source:d:\learnstation\c++\carfactory\carfactory\main.cpp
+	<iostream>
+	"sportCar.h"
+	"Truck.h"
+	"Car.h"
+
+1528709945 source:d:\learnstation\c++\carfactory\carfactory\sportcar.cpp
+	"sportCar.h"
+
+1528710235 source:d:\learnstation\c++\carfactory\carfactory\truck.cpp
+	"Truck.h"
+
+1528703444 source:d:\learnstation\c++\carfactory\carfactory\car.cpp
+	"Car.h"
+
+1528707987 d:\learnstation\c++\carfactory\carfactory\car.h
+	<iostream>
+	<string>
+
+1528708941 d:\learnstation\c++\carfactory\carfactory\sportcar.h
+	"Car.h"
+
+1528710190 d:\learnstation\c++\carfactory\carfactory\truck.h
+	"Car.h"
+
